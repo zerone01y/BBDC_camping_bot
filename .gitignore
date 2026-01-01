@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+# Jupyter Notebook
+.ipynb_checkpoints
+.venv
+.venv/*
+
+.vent/lib
+
+.python-version
+
+.vscode
+
+# user file
+user
+config_*.yaml
+log*.txt
+json-server/*

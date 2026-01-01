@@ -1,0 +1,6 @@
+
+# telegram bot link
+telegram:
+  # token id and chat id for telegram bot refer to telegram bot guide
+  token: "7364492274:YOURBOTTOKEN"
+  admin: [12345678]   #"-4270838033"

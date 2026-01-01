@@ -1,0 +1,17 @@
+# config
+month: [202408,202409,202410,202411,202412]
+# interval in mins
+interval: 100 #seconds
+per_request_interval: 25
+
+login:
+  username: "username" # bbdc account username and password
+  password: "password"
+
+# telegram bot link
+telegram:
+  # enable or disable telegram bot
+  enable_bot: True
+  # token id and chat id for telegram bot refer to telegram bot guide
+  bot_token: "1234:Absdfadfa"
+  chat_id: "-chatid" 
